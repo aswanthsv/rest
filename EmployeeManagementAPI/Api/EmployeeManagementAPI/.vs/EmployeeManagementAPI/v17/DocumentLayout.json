@@ -1,62 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\models\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\models\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20250524084835_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagementAPI\\Migrations\\20250524084835_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\employeemanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\employeemanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\employeemanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\employeemanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\alekh\\downloads\\employeemanagementapi_aswanth\\employeemanagementapi\\api\\employeemanagementapi\\employeemanagementapi\\migrations\\20250524084835_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317FF63-4EC4-49BA-9273-C4C02D83BC56}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\migrations\\20250524084835_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,45 +70,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:465465069:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:573068421:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Interfaces\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Interfaces\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Interfaces\\IEmployeeService.cs",
-              "RelativeToolTip": "EmployeeManagementAPI\\Interfaces\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "repo.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\repo.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Models\\repo.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\repo.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Models\\repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:42:54.436Z",
+              "WhenOpened": "2026-04-01T14:01:10.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeManagementAPI\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\Employee.cs",
               "RelativeToolTip": "EmployeeManagementAPI\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T08:39:15.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T08:39:15.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "EmployeeManagementAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\User.cs",
               "RelativeToolTip": "EmployeeManagementAPI\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,52 +124,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
               "RelativeToolTip": "EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAswAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:44:10.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T08:44:10.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:44:52.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T08:40:41.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "EmployeeManagementAPI\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:44:52.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "EmployeeManagementAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\appsettings.json",
-              "RelativeToolTip": "EmployeeManagementAPI\\appsettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-24T08:40:41.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeManagementAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Program.cs",
               "RelativeToolTip": "EmployeeManagementAPI\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T08:41:44.517Z",
               "EditorCaption": ""
@@ -166,93 +174,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Interfaces\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Interfaces\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Interfaces\\IEmployeeRepository.cs",
-              "RelativeToolTip": "EmployeeManagementAPI\\Interfaces\\IEmployeeRepository.cs",
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Interfaces\\IEmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:42:32.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T08:42:54.436Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\DTOs\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementAPI\\DTOs\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\DTOs\\LoginRequest.cs",
-              "RelativeToolTip": "EmployeeManagementAPI\\DTOs\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:49:03.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T08:42:32.049Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "EmployeeDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Data\\EmployeeDbContext.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Data\\EmployeeDbContext.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Data\\EmployeeDbContext.cs",
-              "RelativeToolTip": "EmployeeManagementAPI\\Data\\EmployeeDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T08:39:55.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T08:49:03.031Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAAAFAAAAAAAAAA==",
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:45:26.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T08:39:55.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:50:29.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T08:45:26.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:50:29.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "20250524084835_initial.cs",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20250524084835_initial.cs",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20250524084835_initial.cs",
               "RelativeDocumentMoniker": "EmployeeManagementAPI\\Migrations\\20250524084835_initial.cs",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20250524084835_initial.cs",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20250524084835_initial.cs",
               "RelativeToolTip": "EmployeeManagementAPI\\Migrations\\20250524084835_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T08:48:35.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T08:48:35.91Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "EmployeeManagementAPI.http",
-              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.http",
+              "DocumentMoniker": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.http",
               "RelativeDocumentMoniker": "EmployeeManagementAPI\\EmployeeManagementAPI.http",
-              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.http",
+              "ToolTip": "C:\\Users\\alekh\\Downloads\\EmployeeManagementAPI_Aswanth\\EmployeeManagementAPI\\Api\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.http",
               "RelativeToolTip": "EmployeeManagementAPI\\EmployeeManagementAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-24T08:45:26.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T08:45:26.655Z"
             }
           ]
         }
